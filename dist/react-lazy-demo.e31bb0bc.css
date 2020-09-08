@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0;
+  position: relative;
+}
+
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background: teal;
+}
+
+.sidebar {
+  width: 30vw;
+  min-height: 100vh;
+  background: orange;
+  position: absolute;
+  right: 0;
+}
+
+img {
+    max-width: 100%;
+    width: auto;
+}
+
+/*# sourceMappingURL=/react-lazy-demo.e31bb0bc.css.map */
