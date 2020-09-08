@@ -1,4 +1,4 @@
-###React.lazy demo
+React.lazy demo
 
 To Install: 
 
